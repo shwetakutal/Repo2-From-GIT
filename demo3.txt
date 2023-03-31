@@ -3,4 +3,3 @@ file added for demo purpose
 
  editing this file to push to remote using IDE
 
- Creating a branch from IDE and  merging with remote
